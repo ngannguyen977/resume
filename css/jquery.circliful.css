@@ -1,0 +1,45 @@
+.circliful .outer {
+    fill: transparent;
+    stroke: #333;
+    stroke-width: 19.8;
+    stroke-dasharray: 534;
+    transition: stroke-dashoffset 1s;
+    -webkit-animation-play-state: running;
+    -moz-transform: rotate(-89deg) translateX(-190px);
+}
+.circliful .inner {
+    fill: transparent;
+    stroke: orange;
+    stroke-width: 20;
+    stroke-dasharray: 534;
+    transition: stroke-dashoffset 1s;
+    -webkit-animation-play-state: running;
+    -moz-transform: rotate(-89deg) translateX(-190px);
+    stroke-dashoffset: 0;
+}
+.circliful {
+    overflow: visible !important;
+}
+.svg-container {
+    
+}
+.software-skills{
+    width: 100%;
+    overflow: visible;
+    margin-bottom: 50px;
+    background-color: #e5ecef;
+}
+.software-skills .col-lg-2{
+    float: left;
+    width: 20%;
+    text-align: center;
+    background-color: #e5ecef;
+   /* margin: 1px;*/
+}
+#test-circle, #test-circle2, #test-circle3, #test-circle4, #test-circle5{
+     position: relative;
+     margin: 0 auto;
+}
+svg .icon {
+    font-family: FontAwesome;
+}
