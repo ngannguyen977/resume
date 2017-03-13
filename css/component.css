@@ -328,7 +328,7 @@ blockquote::after {
 }
 .intro-content .profile-content h4:before{
 	position: absolute;
-	top: 0;
+	top: 2px;
 	left: 25%;
 	width: 50%;
 	height: 1px;
@@ -645,18 +645,18 @@ section .content-right{
 	    font-size: 21px;
 	}
 	.intro-content-right .profile-content h1{
-	font-size: 28px;
+	font-size: 25px;
 	}
 	.intro-content-right .profile-content h4 {
-	   padding: 15px 0 0 0;
+	   padding: 20px 0 0 0;
 	    font-size: 17px;
 	}
 	.intro-content-right .profile-content .info-adress p{
 		font-size: 16px;
 	}
 	.intro-content-right .profile img {
-	    width: 175px;
-	    height: 175px;
+	    width: 150px;
+	    height: 150px;
 	}
 	.item-type-line .item-info .headline {
 	    font-size: 23px;
@@ -695,7 +695,7 @@ section .content-right{
 	}
 	.open-right .back-left {
 	    color: #fff;
-	    background-color: rgba(131, 60, 129, 0.66);
+	    background-color: rgb(131, 60, 129);
 	     left: 4.5%;
 	}
 	.side-left{

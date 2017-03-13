@@ -32,7 +32,10 @@ a {
 a:hover {
 	color: #000;
 }
-
+.img-responsive{
+	max-width: 100%;
+	display: block;
+}
 .codropsheader {
 	width: 100%;
 	margin: 0 auto;
