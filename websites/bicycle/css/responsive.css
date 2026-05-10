@@ -1,0 +1,53 @@
+@media all and (max-width : 1340px) {
+	#section3 .container-fluid {
+	    width: 100%;
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+}
+@media all and (max-width : 991px){
+	#section3 .brand-logo li {
+	    height: 125px;
+	    float: left;
+	    width: 14%;
+	}
+}
+@media (max-width : 768px) {
+	#bs-megadropdown-tabs{
+		background-color: #fff;
+	}
+	.navbar input[type="submit"] {
+		right: 0;
+	}
+}
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+	.navbar-nav>li>a {
+	    font-size: 11px;
+	}
+}
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5),only screen and (min-device-pixel-ratio : 1.5) {
+	#slider-top {
+	    height: 430px;
+	}
+	.seq .seq-canvas > * {
+		left: 0;
+	}
+	.seq .seq-canvas .seq-title {
+	    top: 0;
+	    right: 0;
+	    left: 0;
+	}
+	.seq .seq-canvas .seq-title h2 {
+	    font-size: 30px;
+	}
+	.seq .seq-canvas .seq-title h4 {
+	    font-size: 28px;
+	}
+	.carousel-inner .item1 {
+	    height: 377px;
+	}
+}
+
+@media (max-width : 678px) {
+	
+}
